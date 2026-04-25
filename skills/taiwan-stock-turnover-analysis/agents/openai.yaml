@@ -1,0 +1,3 @@
+interface:
+  display_name: "台股成交值排行分析"
+  short_description: "分析含外資/投信/融資欄位的排行 xlsx，產出題材與模型選股報告"
